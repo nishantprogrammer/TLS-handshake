@@ -1,8 +1,4 @@
-/*
- * Copyright (c) 2021 Nordic Semiconductor ASA.
- *
- * SPDX-License-Identifier: LicenseRef-Nordic-5-Clause
- */
+
 
 #include <zephyr/logging/log.h>
 LOG_MODULE_REGISTER(psa_tls_credentials_server_secure);
